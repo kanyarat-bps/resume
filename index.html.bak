@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&amp;family=Roboto+Condensed&amp;display=swap%22%20rel=%22stylesheet">
+  </head>
+  <body>
+    <div class="container-fluid px-5">
+      <div class="row">
+        <div class="col-md-6 px-5 py-5"> <img alt="profile" src="images/IMG_8137.jpg"
+            class="img-fluid" height="350" width="350">
+          <h1><b>KANYARAT BOONPRASERT</b></h1>
+          <p> WEB DEVELOPER </p>
+        </div>
+        <div class="col-md-6"> <img alt="about me" src="images/IMG_8331%288%29.JPG"
+            class="img-fluid">
+          <p>A hard-working and well-organized person specializing in Web
+            development.</p>
+          <p> </p>
+          <p class="cvGsUA direction-ltr align-justify para-style-body" style="color: rgb(47, 50, 55); font-family: &quot;YACgEZ1cb1Q 0&quot;, _fb_, auto; --font-size: 13.3333px; --line-height: 1.6; letter-spacing: 0.03em; text-transform: none; line-height: 21px;"><span
+              class="OYPEnA white-space-prewrap text-decoration-none text-strikethrough-none"
+              style="color: rgb(47, 50, 55); font-weight: 400; font-style: normal;">
+            </span></p>
+          <p> </p>
+          <p>Seeking a position where can utilize experience in Web development
+            to influence, enable organizations to excel in the delivery of
+            information services by company that rewards ability and dedication.</p>
+          <p class="cvGsUA direction-ltr align-justify para-style-body" style="color: rgb(47, 50, 55); font-family: &quot;YACgEZ1cb1Q 0&quot;, _fb_, auto; --font-size: 13.3333px; --line-height: 1.6; letter-spacing: 0.03em; text-transform: none; line-height: 21px;"><span
+              class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(47, 50, 55); font-weight: 400; font-style: normal;"><img
+                src="images/IMG_8331%281%29.JPG" alt="contact" class="img-fluid"></span></p>
+          <p><img src="images/IMG_8331%286%29.JPG" alt="loca">&nbsp;&nbsp;&nbsp;
+            3/15 No.3 Ban Krachaeng, Mueang Pathum Thani, Pathum Thani 12000</p>
+          <p><img src="images/IMG_8331%287%29.JPG" alt="phone"> 092-628-5520</p>
+          <p><img src="images/IMG_8331%285%29.JPG" alt="email">&nbsp;
+            boonprasert_k@silpakorn.edu</p>
+          <p class="cvGsUA direction-ltr align-justify para-style-body" style="color: rgb(47, 50, 55); font-family: &quot;YACgEZ1cb1Q 0&quot;, _fb_, auto; --font-size: 13.3333px; --line-height: 1.6; letter-spacing: 0.03em; text-transform: none; line-height: 21px;"><span
+              class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(47, 50, 55); font-weight: 400; font-style: normal;"><br>
+            </span></p>
+          <p><small></small> </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"> <img alt="soft skills" src="images/IMG_8347.JPG"
+            class="img-fluid">
+          <p> Public Speaking</p>
+          <p><span class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(0, 0, 0); font-weight: 600; font-style: normal;"><img
+                src="images/IMG_8331%284%29.JPG" alt="1"><br>
+            </span></p>
+          <p>Problem Solving</p>
+          <p><span class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(0, 0, 0); font-weight: 600; font-style: normal;"><img
+                src="images/IMG_8331%284%29.JPG" alt="2"><br>
+            </span></p>
+          <p>Creativity</p>
+          <p><span class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(0, 0, 0); font-weight: 600; font-style: normal;"><img
+                src="images/IMG_8331%284%29.JPG" alt="3"><br>
+            </span></p>
+          <p>Teamwork</p>
+          <p><span class="OYPEnA text-decoration-none text-strikethrough-none" style="color: rgb(0, 0, 0); font-weight: 600; font-style: normal;"><img
+                src="images/IMG_8331%284%29.JPG" alt="4"></span><br>
+            <small></small> </p>
+        </div>
+        <div class="col-md-6"> <img alt="education" src="images/IMG_8331.JPG" class="img-fluid">
+          <p>Bachelor of Arts (Information and Library Science)</p>
+          <p> </p>
+          <p>2021-2025</p>
+          <p> Silpakorn University</p>
+          <p> </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"> <img alt="languange" src="images/IMG_8348.JPG" class="img-fluid">
+          <p><img src="images/IMG_8331%282%29.JPG" alt="85">Thai (Native)</p>
+          <p><img src="images/IMG_8331%20%281%29.JPG" alt="501">English
+            (Conversation)</p>
+          <p><img src="images/IMG_8331%20%281%29.JPG" alt="503">Chinese
+            (Conversation)</p>
+          <p><small></small> </p>
+        </div>
+        <div class="col-md-6"> <img alt="techical skills" src="images/IMG_8350.JPG"
+            class="img-fluid">
+          <ul>
+            <li>
+              <p>Microsoft Office &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p>Basic Web Development &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p> Data Analysis &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p>HTML &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p>JavaScript &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p>Bootstrap &nbsp;<span class="OYPEnA text-decoration-none text-strikethrough-none"
+                  style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal;"></span></p>
+              <p> </p>
+            </li>
+            <li>
+              <p>CSS </p>
+            </li>
+          </ul>
+          <p><small></small> </p>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script>
+  </body>
+</html>
